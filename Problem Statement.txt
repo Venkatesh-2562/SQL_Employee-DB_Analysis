@@ -1,0 +1,14 @@
+1.Retrieve the second-highest salary of an employee?
+2.Find the second highest salary for each department?
+3.Find the maximum salary of the top 5 highest-paid employees in
+each department?
+4.Find the department with the highest number of employees?
+5.Fetch all employees whose salary is greater than the minimum salary?
+6.Write a query to find all employees who joined in the year 2020? 
+7.Fetch the first and last record from a table?
+8.Display employees grouped by their age brackets (e.g.,
+20-30, 31-40, etc.).
+9.Fetch the details of employees with the same salary.
+10.Retrieve employee names and salaries in a single string?
+
+
